@@ -35,11 +35,11 @@ The Heart Attack Analysis & Prediction Dataset includes data from 303 individual
 - **chol** (Serum Cholesterol): Serum cholesterol in mg/dl.
 - **thalachh** (Maximum Heart Rate Achieved): Maximum heart rate achieved.
 - **oldpeak**: ST depression induced by exercise relative to rest.
-## Models Implemented
-- **Logistic Regression**: Used as a baseline for comparison.
-- **Decision Tree**: A simple model to interpret the decision-making process.
-- **Random Forest**: An ensemble method to improve predictive accuracy.
-- **Neural Network**: A complex model to capture nonlinear relationships.
-- **XGBoost**: An advanced gradient boosting model known for performance in structured data.
+## Models Implemented and Highest Achieved Scores: 
+- **Logistic Regression**: Used as a baseline for comparison - accuracy: 84.4 %
+- **Decision Tree** - accuracy: 84.3%
+- **Random Forest** - accuracy: 86.5%
+- **Neural Network** - accuracy: 92.2%
+- **XGBoost** - accuracy: 82.4%
 ## Usage
 This notebook is intended for educational purposes and as a practical example of applying machine learning techniques in medical diagnostics. 
